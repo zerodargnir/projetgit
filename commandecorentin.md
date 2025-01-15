@@ -38,3 +38,7 @@ git add LICENSE
 git commit -m "ajout de la license"
 git push origin Corentin
 
+## Merge de ma branch avec le main
+
+git checkout main
+git merge Corentin
