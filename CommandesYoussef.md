@@ -141,3 +141,14 @@
     git pull origin main
     git merge youssef
     ```
+24. **Modification du Readme et ajout du 'e' à .gitignore**
+
+    ```bash
+    nano readme.md
+    git add readme.md
+    git commit -m "Modification du readme.md"
+    nano .gitignor
+    rm .gitignor
+    git add .gitignore
+    git commit -m "Ajout du 'e' à .gitignore"
+    ```

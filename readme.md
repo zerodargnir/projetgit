@@ -1,1 +1,1 @@
-# projet de esposito dario corentin gervais youssef kertoubi
+# Projet GIT de Esposito Dario, Corentin Gervais et Youssef Kertoubi
