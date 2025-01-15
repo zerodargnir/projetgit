@@ -140,6 +140,7 @@
     git checkout main
     git pull origin main
     git merge youssef
+    git push origin main
     ```
 24. **Modification du Readme et ajout du 'e' à .gitignore**
 
