@@ -99,4 +99,22 @@
 21. Push des modifications :
     ```bash
     git push origin dario
-    
+
+## le merge final
+
+22. je pull le main sur ma branche 
+   ```bash
+   git pull origin main
+   ```
+23. je vais dans la branche main
+    ```bash
+    git checkout main
+    ```
+24. je merge la branche dario a la branche main
+    ```bash
+    git merge dario
+    ```
+25. et enfin je push
+    ```bash
+  git push origin main
+  ```
