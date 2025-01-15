@@ -1,0 +1,10 @@
+Pourquoi utiliser un .gitignore ?
+
+    Éviter de suivre des fichiers sensibles : Comme les clés API,
+    les mots de passe, ou les configurations locales.
+
+    Ignorer les fichiers générés : Comme les fichiers de compilation,
+    les caches, ou les logs, qui ne sont pas pertinents pour le code source.
+
+    Réduire le bruit : Pour que seules les modifications importantes soient
+    suivies.
