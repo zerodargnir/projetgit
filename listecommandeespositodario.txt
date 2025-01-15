@@ -11,3 +11,14 @@ j'ai du mettre le token git
 puis git branch dario pour cree ma branch
 et git checkout dario pour me mettre dans ma branche 
 et git status pour verifier que je suis bien dans ma branch 
+ensuite git add listecommandeespositodario.txt
+git commit -m 'commit de ma branche avec le rapport de commande '
+ensuite git push origin dario
+comme sa ma branche a ete push sur le repo  
+ensuite git config pull.rebase false
+pasque le pull de la branche de youssef avec le html ne marchais pas 
+puis git pull origin youssef 
+pour avoir la branche de youssef avec le html pour pouvoir faire le css
+ensuite git add . pour rajouter le fichier html avec la modification et le fichier css
+ensuite git commit -m 'commit avec le html corriger et le css cree et coder'
+git push origin dario pour le push de ma branche
