@@ -1,0 +1,8 @@
+git add mobile.html
+git commit -m "fichier html du site mobile"
+git push origin Corentin "pour l'envoyé sur le dépôt distant"
+
+git add mobile.css
+git commit -m "fichier css du site mobile"
+git push origin Corentin "pour l'envoyé sur le dépot distant"
+
