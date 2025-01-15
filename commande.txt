@@ -6,3 +6,11 @@ git add mobile.css
 git commit -m "fichier css du site mobile"
 git push origin Corentin "pour l'envoyé sur le dépot distant"
 
+git pull origin dario "pour récupérer le travail de dario afin d'appliquer 
+mes modification sur sont travail"
+
+git add css
+git commit -m "ajout du fichier mobile.css dans le dossier css"
+git push origin Corentin
+
+
