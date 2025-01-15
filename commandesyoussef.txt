@@ -1,0 +1,40 @@
+git --version
+sudo apt update -y
+sudo apt upgrade -y
+
+git clone https://github.com/zerodargnir/projetgit.git
+cd projetgit
+git checkout -b youssef # Creation de la branche youssef et aller directement dessus
+mkdir html
+cd html
+nano index.html
+cd ..
+git add .
+git config user.email "scriptys1214@gmail.com"
+git config user.name "scr1ptys"
+git commit -m "Version 1 de la page HTML"
+nano ~/token.txt -> pour mettre le token github a l'interieur
+git push origin youssef
+
+----------- Apres ajout du css de Dario et du mobile de Corentin
+
+git pull origin Corentin
+
+Ajouter le Aside dans le html:
+nano html/index.html
+git add html/index.html
+git commit -m "Ajout du Aside dans le HTML"
+nano html/index.html
+git add html/index.html
+git commit -m "Ajout du lien avec le css"
+nano css/style.css
+git add css/style.css
+git commit -m "Ajout du css pour le aside et quelques ajustements"
+nano css/style.css
+add css/style.css
+git commit -m "ajustements"
+git revert 140ee4780fed7566878d5fd5a82777eb4989e4bc
+nano commandesyoussef.txt
+git add .
+git commit -m "derniers ajustements"
+git push origin youssef
