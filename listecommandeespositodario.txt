@@ -22,3 +22,8 @@ pour avoir la branche de youssef avec le html pour pouvoir faire le css
 ensuite git add . pour rajouter le fichier html avec la modification et le fichier css
 ensuite git commit -m 'commit avec le html corriger et le css cree et coder'
 git push origin dario pour le push de ma branche
+encore git pull origin youssef pour avoir la branche de youssef 
+puis j ai modifier le fichier css mobile 
+ensuite git add .pour ajouter le fichier
+ensuite git commit -m 'commit avec modification du fichier css mobile'
+ensuite git push origin dario
