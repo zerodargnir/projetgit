@@ -134,3 +134,10 @@
     git commit -m "Ajout des notes dans le format .md"
     ```
 
+23. **Fusionner la branche youssef à la branche principale**
+
+    ```bash
+    git checkout main
+    git pull origin main
+    git merge youssef
+    ```
